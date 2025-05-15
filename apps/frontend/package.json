@@ -1,0 +1,17 @@
+{
+  "name": "some-code",
+  "version": "0.0.1",
+  "type": "module",
+  "scripts": {},
+  "dependencies": {
+    "@aws-sdk/client-sqs": "catalog:",
+    "lodash-es": "catalog:",
+    "object-hash": "catalog:"
+  },
+  "devDependencies": {
+    "@aws-sdk/client-s3": "3.810.0",
+    "date-fns": "catalog:",
+    "typescript": "5.8.3"
+  },
+  "packageManager": "pnpm@10.10.0"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "scripts",
+  "version": "0.0.1",
+  "type": "module",
+  "scripts": {
+    "unused": "bun run unused-packages"
+  },
+  "devDependencies": {
+    "@pnpm/list": "catalog:",
+    "@types/bun": "catalog:",
+    "@types/node": "catalog:",
+    "yaml": "catalog:"
+  },
+  "packageManager": "pnpm@10.10.0"
+}

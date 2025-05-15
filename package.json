@@ -1,0 +1,7 @@
+{
+  "private": true,
+  "scripts": {
+    "unused": "bun run scripts/unused-packages --root ."
+  },
+  "packageManager": "pnpm@10.10.0"
+}

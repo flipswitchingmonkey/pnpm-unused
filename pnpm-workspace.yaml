@@ -1,0 +1,17 @@
+packages:
+  - apps/frontend
+  - apps/backend
+  - packages/shared
+  - scripts
+catalog:
+  "@axe-core/playwright": 4.10.1
+  "@aws-sdk/client-s3": 3.808.0
+  "@aws-sdk/client-sqs": 3.808.0
+  "@pnpm/list": 1000.0.17
+  "@types/bun": 1.2.13
+  "@types/lodash-es": 4.17.12
+  "@types/node": 22.15.18
+  date-fns: 4.1.0
+  lodash-es: 4.17.21
+  object-hash: 3.0.0
+  yaml: 2.7.1
